@@ -46,9 +46,10 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008116491</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An unmarriageable shrew receives a marriage proposal.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;In the Italian city of Padua, a young gentleman named Lucentio comes to study at one of the city’s colleges. As is the fate of men in &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; plays, Lucentio falls in love at first sight. The object of his affection, Bianca, is the beautiful and docile daughter of a rich merchant. Her father, Baptista Minola, has declared no one can marry Bianca until her older sister Katharina has been married first.&lt;/p&gt;
+			&lt;p&gt;Katharina is the polar opposite of her sister: vicious, foul-tempered, sharp-tongued, and stubborn. Any man in her vicinity is at risk of receiving her brutal insults and physical attacks. It is no surprise that no man has wished to marry her, or that is what she believed until an equally difficult man named Petruchio arrives in Padua.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
