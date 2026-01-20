@@ -57,7 +57,7 @@
 		<dc:source>http://shakespeare.mit.edu/taming_shrew/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
-		<meta property="se:word-count">22531</meta>
+		<meta property="se:word-count">22087</meta>
 		<meta property="se:reading-ease.flesch">73.58</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Taming_of_the_Shrew</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_the-taming-of-the-shrew</meta>
