@@ -31,10 +31,10 @@
 		<dc:title id="title">The Taming of the Shrew</dc:title>
 		<meta property="file-as" refines="#title">Taming of the Shrew, The</meta>
 		<dc:subject id="subject-1">Comedies</dc:subject>
-		<dc:subject id="subject-2">Man-woman relationships -- Drama</dc:subject>
-		<dc:subject id="subject-3">Married people -- Drama</dc:subject>
-		<dc:subject id="subject-4">Sex role -- Drama</dc:subject>
-		<dc:subject id="subject-5">Padua (Italy) -- Drama</dc:subject>
+		<dc:subject id="subject-2">Man-woman relationships--Drama</dc:subject>
+		<dc:subject id="subject-3">Married people--Drama</dc:subject>
+		<dc:subject id="subject-4">Sex role--Drama</dc:subject>
+		<dc:subject id="subject-5">Padua (Italy)--Drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh99005572</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
